@@ -411,8 +411,8 @@
 </table>
     <h3 style="color: green;">Ikuti kami di media sosial tekan saja:</h3>
 <div class="social-links">
-  <a href="https://www.instagram.com/" target="_blank">Instagram</a><br>
-  <a href="https://www.tiktok.com/" target="_blank">TikTok</a>
+  <a href="https://www.instagram.com/onebraderclass?igsh=dmIydWc1aG50aWdy" target="_blank">Instagram</a><br>
+  <a href="https://www.tiktok.com/@asixxbee6?_t=ZS-8w2rmDerWuv&_r=1" target="_blank">TikTok</a>
 </div>
  <footer style="text-align: center; margin-top: 30px; font-style: italic; color: #666;">
   Designed by: AhmPutraN
