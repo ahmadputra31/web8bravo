@@ -409,7 +409,7 @@
   <tr><td>5</td><td>10.30 - 11.10</td><td>P5</td></tr>
   <tr><td>7</td><td>11.10 - 11.50</td><td>P5</td></tr>
 </table>
-    <div
+    
 <div class="social-links">
   <a href="https://www.instagram.com/onebraderclass?igsh=dmIydWc1aG50aWdy" target="_blank">Instagram</a><br>
   <a href="https://www.tiktok.com/@asixxbee6?_t=ZS-8w2rmDerWuv&_r=1" target="_blank">TikTok</a>
