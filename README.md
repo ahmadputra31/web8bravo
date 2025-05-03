@@ -1,4 +1,4 @@
-[Uploading Index.<!DOCTYPE html>
+
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -101,7 +101,6 @@
 
 </body>
 </html>
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -180,7 +179,6 @@
 
 </body>
 </html>
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -253,7 +251,6 @@
   </table>
 </body>
 </html>
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
