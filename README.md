@@ -409,7 +409,7 @@
   <tr><td>5</td><td>10.30 - 11.10</td><td>P5</td></tr>
   <tr><td>7</td><td>11.10 - 11.50</td><td>P5</td></tr>
 </table>
- <div> class="social-text">
+<div class="social-text">
       Ikuti kami di media sosial tekan saja:
     </div>
     <div class="social-links">
@@ -417,7 +417,7 @@
       <a href="https://www.tiktok.com/@asixxbee6?_t=ZS-8w2iW7iO2r3&_r=1" target="_blank">TikTok</a>
     </div>
   </div>
-<footer style="text-align: center; margin-top: 30px; font-style: italic; color: #666;">
+ <footer style="text-align: center; margin-top: 30px; font-style: italic; color: #666;">
   Designed by: AhmPutraN
 </footer>
 ...
