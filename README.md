@@ -409,7 +409,7 @@
   <tr><td>5</td><td>10.30 - 11.10</td><td>P5</td></tr>
   <tr><td>7</td><td>11.10 - 11.50</td><td>P5</td></tr>
 </table>
- <div class="social-text">
+ <div> class="social-text">
       Ikuti kami di media sosial tekan saja:
     </div>
     <div class="social-links">
@@ -421,4 +421,3 @@
   Designed by: AhmPutraN
 </footer>
 ...
-html…]()
