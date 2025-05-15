@@ -168,7 +168,7 @@
     <div class="list-box"><b>Ketua Kelas:</b> Putri Nur Ainiyyah Zahraa</div>
     <div class="list-box"><b>Wakil Ketua:</b> Ahmad Putra Nurrohim</div>
     <div class="list-box"><b>Sekretaris:</b> Dinda & Dwi Irji</div>
-    <div class="list-box"><b>Bendahara:</b> Anita & Adeliav>
+    <div class="list-box"><b>Bendahara:</b> Anita & Adelia</div>
     <div class="list-box"><b>Anggota:</b> Semua siswa di kelas VIII B</div>
 
     <div class="wali-kelas">
